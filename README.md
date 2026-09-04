@@ -64,9 +64,9 @@ Most apps upload your data to someone else's server. The things I build run **on
 
 ### GitHub stats
 
-![GitHub stats](https://github-readme-stats-sigma.vercel.app/api?username=alpha-1-design&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha-1-design&show_icons=true&theme=radical)
 
-![Top languages](https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=alpha-1-design&layout=compact&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-1-design&layout=compact&theme=radical)
 
 ---
 
