@@ -45,7 +45,7 @@ Most apps upload your data to someone else's server. The things I build run **on
 | --- | --- |
 | [Terra-Core](https://github.com/alpha-1-design/Terra-Core) | Real-time global monitoring console — live ADS-B aircraft, weather & AQI, NWS alerts, space weather, aurora oval, precipitation radar, live TV and world news on an interactive 3D globe |
 | [Core-x](https://github.com/alpha-1-design/Core-x) | Real-time world monitoring on an interactive 3D globe — from natural disasters to breaking news |
-| [Privacy Toolkit](https://github.com/alpha-1-design/privacy-toolkit) | 13 in-browser security tools: JWT decoder, AES-256 encryption, hashing, VirusTotal — zero tracking, zero accounts |
+| [Privacy Toolkit](https://github.com/alpha-1-design/privacy-toolkit) | 17 in-browser security tools: JWT decoder, AES-256 encryption, hashing, VirusTotal — zero tracking, zero accounts |
 | [Universal Toolbox](https://github.com/alpha-1-design/universal-toolbox) | 700+ curated tools across 50+ categories in a high-performance PWA |
 | [BLACKBOX](https://github.com/alpha-1-design/BLACKBOX) | Offline security hub — AES-256 secrets manager, 2FA authenticator, journal. 100% on-device |
 | [Nexus](https://github.com/alpha-1-design/Nexus) | Self-hosted autonomous AI coding agent with real-time multi-agent orchestration |
