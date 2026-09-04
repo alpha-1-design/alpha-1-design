@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samuel Mensah</h1>
-<h3 align="center">I build privacy-first AI that runs entirely on-device — no cloud, no telemetry, no data leaks.</h3>
+<h3 align="center">I build privacy-first apps that run entirely on-device — no cloud, no telemetry, no data leaks.</h3>
 
 <p align="center">
   <a href="https://alpha1studio.vercel.app/">Portfolio</a> ·
@@ -14,7 +14,7 @@
 
 A developer from Ghana who believes **privacy should be the default, not a feature.**
 
-Most AI products upload your data to someone else's server. The things I build run **on your device** — architected so data collection is *impossible*, not merely optional.
+Most apps upload your data to someone else's server. The things I build run **on your device** — architected so data collection is *impossible*, not merely optional.
 
 ---
 
@@ -43,6 +43,7 @@ Most AI products upload your data to someone else's server. The things I build r
 
 | Project | What it is |
 | --- | --- |
+| [Terra-Core](https://github.com/alpha-1-design/Terra-Core) | Real-time global monitoring console — live ADS-B aircraft, weather & AQI, NWS alerts, space weather, aurora oval, precipitation radar, live TV and world news on an interactive 3D globe |
 | [Core-x](https://github.com/alpha-1-design/Core-x) | Real-time world monitoring on an interactive 3D globe — from natural disasters to breaking news |
 | [Privacy Toolkit](https://github.com/alpha-1-design/privacy-toolkit) | 13 in-browser security tools: JWT decoder, AES-256 encryption, hashing, VirusTotal — zero tracking, zero accounts |
 | [Universal Toolbox](https://github.com/alpha-1-design/universal-toolbox) | 700+ curated tools across 50+ categories in a high-performance PWA |
@@ -63,9 +64,9 @@ Most AI products upload your data to someone else's server. The things I build r
 
 ### GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alpha-1-design&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-sigma.vercel.app/api?username=alpha-1-design&show_icons=true&theme=radical)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alpha-1-design&layout=compact&theme=radical)
+![Top languages](https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=alpha-1-design&layout=compact&theme=radical)
 
 ---
 
@@ -75,4 +76,4 @@ Most AI products upload your data to someone else's server. The things I build r
 
 ---
 
-*Suggestion: pin GIA, Core-x, Privacy Toolkit, Universal Toolbox, BLACKBOX, and Nexus on your profile so the flagship projects appear above the fold.*
+*Suggestion: pin GIA, Terra-Core, Core-x, Privacy Toolkit, Universal Toolbox, BLACKBOX, and Nexus on your profile so the flagship projects appear above the fold.*
